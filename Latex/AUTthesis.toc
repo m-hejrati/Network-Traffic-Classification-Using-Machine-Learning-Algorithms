@@ -1,0 +1,27 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}انواع روش‌های طبقه‌بندی ترافیک شبکه}{4}{chapter.2}%
+\contentsline {section}{\numberline {2-1}روش مبتنی بر درگاه }{5}{section.2.1}%
+\contentsline {section}{\numberline {2-2}روش مبتنی پیلود }{6}{section.2.2}%
+\contentsline {section}{\numberline {2-3}روش مبتنی بر رفتار میزبان }{6}{section.2.3}%
+\contentsline {section}{\numberline {2-4}روش مبتنی بر یادگیری ماشین }{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}یادگیری نظارت شده}{7}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2}یادگیری بدون نظارت}{7}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2-5}خلاصه}{8}{section.2.5}%
+\contentsline {chapter}{\numberline {3}مدل سازی روش یادگیری ماشین}{9}{chapter.3}%
+\contentsline {section}{\numberline {3-1}جمع آوری داده}{10}{section.3.1}%
+\contentsline {section}{\numberline {3-2}استخراج ویژگی ها}{11}{section.3.2}%
+\contentsline {section}{\numberline {3-3}یادگیری نمونه}{11}{section.3.3}%
+\contentsline {section}{\numberline {3-4}پیاده سازی الگوریتم}{11}{section.3.4}%
+\contentsline {section}{\numberline {3-5}بررسی و تحلیل نتایج}{11}{section.3.5}%
+\contentsline {section}{\numberline {3-6}خلاصه}{12}{section.3.6}%
+\contentsline {chapter}{\numberline {4} نتیجه گیری و پیشنهادها}{13}{chapter.4}%
+\contentsline {section}{\numberline {4-1}نتیجه گیری}{14}{section.4.1}%
+\contentsline {section}{\numberline {4-2}پیشنهادها}{14}{section.4.2}%
+\contentsline {chapter}{منابع و مراجع}{15}{appendix*.5}%
+\contentsfinish 
